@@ -1,0 +1,30 @@
+
+{
+  "name": "aleut.tools.placeholder"
+,
+  "version": "1.0.1",
+  "description": "The aleutcss placeholder module contains a useful mixin for changing the text-color on placeholder-text on input-fields.",
+  "main": "_tools.placeholder.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aleutcss/tools.placeholder.git"
+  },
+  "contributors": [
+    {"name": "Marius Hauken", "url": "http://twitter.com/mhauken", "email": "hauken@netliferesearch.com"},
+    {"name": "Robin Sandborg", "url": "http://twitter.com/robrobro", "email": "robin@netliferesearch.com"},
+    {"name": "Knut Melvær", "url": "http://twitter.com/kmelve", "email": "knut@netliferesearch.com"}
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aleutcss/tools.placeholder/issues"
+  },
+  "homepage": "https://github.com/aleutcss/tools.placeholder",
+  "keywords": [
+    "aleutcss",
+    "aleut",
+    "oocss",
+    "css",
+    "placeholder",
+    "mixin"
+  ]
+}
